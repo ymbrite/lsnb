@@ -1,7 +1,7 @@
 ---
 title: 稀奇古怪的中国经济
 description: 这是一篇文章
-date: 2026-03-08 07:31:00
+date: 2026-03-08 
 author: YM
 tags: [Nuxt, Vue, JavaScript]
 ---

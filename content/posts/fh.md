@@ -1,7 +1,7 @@
 ---
 title: 战马
 description: 这是一篇文章
-date: 2026-03-08 07:28:00
+date: 2026-03-08 
 author: YM
 tags: [Nuxt, Vue, JavaScript]
 ---
